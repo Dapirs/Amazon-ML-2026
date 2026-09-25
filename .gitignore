@@ -1,0 +1,5 @@
+training_datasets/
+.idea/
+.venv/
+__pycache__/
+*.pyc
