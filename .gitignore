@@ -4,3 +4,4 @@ training_datasets/
 __pycache__/
 *.pyc
 cleaned_datasets/
+candidate_data/
