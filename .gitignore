@@ -3,3 +3,4 @@ training_datasets/
 .venv/
 __pycache__/
 *.pyc
+cleaned_datasets/
