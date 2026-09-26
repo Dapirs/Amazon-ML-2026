@@ -28,4 +28,3 @@ project_root/
 └─ README.md
 ```
 
-(Adjust the diagram as needed for your specific components.)
